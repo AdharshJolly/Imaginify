@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/clerk-sdk-node": "^5.0.11",
+    "@clerk/clerk-sdk-node": "^5.0.52",
     "@clerk/nextjs": "^5.7.5",
     "@hookform/resolvers": "^3.6.0",
     "@radix-ui/react-alert-dialog": "^1.1.0",
